@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245432622370",
+    "project_id": "textrec-4956c",
+    "storage_bucket": "textrec-4956c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245432622370:android:b4512ac9bcd58586d1197b",
+        "android_client_info": {
+          "package_name": "hr.aspira.textrec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245432622370-qu0h6eaqn2oqqhep8cro4u0aucpuuqus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwBJ0Q8f1LUVClWgKt5BNHuCeeP8yKX8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245432622370-qu0h6eaqn2oqqhep8cro4u0aucpuuqus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
